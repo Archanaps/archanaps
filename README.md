@@ -1,16 +1,19 @@
-### Hi there 👋
+ 
 
-<!--
-**Archanaps/archanaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Archana and I'm a software engineer.
 
-Here are some ideas to get you started:
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few technologies I've been working with recently:
+
+JavaScript (ES6+),
+HTML & (S)CSS,
+React,
+Redux,
+Node.js,
+Express,
+GraphQL,
+Typescript,
+PostgreSQL,
+Firebase,
+Java.
