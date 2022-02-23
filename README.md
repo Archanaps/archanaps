@@ -1,8 +1,9 @@
-
+Hey there,
 
 My name is Archana and I'm a software engineer.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Here are a few technologies I've been working with recently:
 
