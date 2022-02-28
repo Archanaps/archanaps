@@ -11,10 +11,14 @@ Here are a few technologies I've been working with recently:
 * HTML & (S)CSS
 * React
 * Redux
+* Hooks
+* GraphQL
+* ContextAPI
+* Stripe
+* Firebase
 * Node.js
 * Express
-* GraphQL
 * Typescript
 * PostgreSQL
-* Firebase
 * Java
+
